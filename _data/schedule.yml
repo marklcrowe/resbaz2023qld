@@ -107,6 +107,11 @@
       endTime: "18:30",
       sessionIds: [1042]
     }
+    - {
+      startTime: "17:30",
+      endTime: "19:30",
+      sessionIds: [2]
+    }
 -
   date: "2023-11-23"
   dateReadable: "Thursday 23rd November 2023"
